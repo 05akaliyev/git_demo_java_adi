@@ -11,7 +11,7 @@ import java.util.ArrayList;
  * @author AdministradorCIFO
  */
 public class Team {
-    protected  String name;
+    private String name;
     ArrayList<Player> players;
     
     
@@ -24,3 +24,4 @@ public class Team {
     }
     
 }
+

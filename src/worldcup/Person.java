@@ -9,7 +9,7 @@ package worldcup;
  * @author AdministradorCIFO
  */
 public class Person {  
-    int age;
+    protected int age; 
     
     
     public void run(){

@@ -9,7 +9,7 @@ import java.util.ArrayList;
 /**
  *
  * @author AdministradorCIFO
- */
+ */ 
 public class Team {
     String name;
     ArrayList<Player> players;
@@ -18,7 +18,7 @@ public class Team {
     public void play(){
             System.out.println("playing");
         }
-
+  
     public void attack(){
         System.out.println("attacking");
     }

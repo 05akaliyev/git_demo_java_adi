@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author AdministradorCIFO
+ * @author AdministradorCIFO // Issue: Atrubite Team is not private
  */
 public class Team {
     String name;

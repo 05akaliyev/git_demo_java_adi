@@ -1,6 +1,6 @@
 package worldcup;
 
-public class Coach extends Person {  // Now extends Person
+public class Coach extends Person {  // Now extends Perso
 
     private boolean active;
     private String style;

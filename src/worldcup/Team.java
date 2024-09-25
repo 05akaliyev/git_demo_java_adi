@@ -11,7 +11,7 @@ import java.util.ArrayList;
  * @author AdministradorCIFO
  */
 public class Team {
-    private String name;
+    private String name; // Now its private
     ArrayList<Player> players;
     
     

@@ -7,11 +7,10 @@ package worldcup;
 import java.util.ArrayList;
 
 /**
- *
- * @author AdministradorCIFO
- */ 
+ 
+
 public class Team {
-    String name;
+    private String name; // Now its private
     ArrayList<Player> players;
     
     
@@ -24,3 +23,4 @@ public class Team {
     }
     
 }
+

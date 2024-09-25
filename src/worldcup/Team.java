@@ -11,7 +11,7 @@ import java.util.ArrayList;
  * @author AdministradorCIFO // Issue: Atrubite Team is not private
  */
 public class Team {
-    protected  String name;
+    private String name; // Now its private
     ArrayList<Player> players;
     
     
@@ -24,3 +24,4 @@ public class Team {
     }
     
 }
+
